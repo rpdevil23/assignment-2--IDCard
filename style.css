@@ -1,0 +1,71 @@
+.idcard{
+    height:fit-content;
+    width:260px;
+    background-color: blanchedalmond;
+    border-radius:10px;
+    text-align: center;
+    border:2px solid blue;
+
+}
+.logo img{
+    width:250px;
+    padding-top: 15px;
+}
+.infor{
+   
+    background-color: blue;
+    color:white;
+
+}
+/* google logo */
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 200,
+  'GRAD' -25,
+  'opsz' 10
+}
+
+.center{
+    display:flex;
+    gap:10px;
+    padding-top: 5px;
+}
+.qr img{
+    width:60px;
+    
+}
+.photos img{
+    height:100px;
+    width:100px;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
+.card{
+    display:flex;
+    
+}
+.card h3{
+    transform:rotate(-90deg);
+}
+.card h2{
+
+    
+}
+.detail h3{
+    color:red;
+}
+.detail{
+    padding-left: 25px;
+    text-align: left;
+    color:blue;
+}
+.line{
+    height: 2px;
+    background-color:red;
+}
+.web{
+    background-color:blue;
+    color:white;
+    
+}
